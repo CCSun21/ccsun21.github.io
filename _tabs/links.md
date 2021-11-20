@@ -5,6 +5,7 @@ order: 4
 ---
 
 Xidian University
-<kbd>XDU<https://www.xidian.edu.cn/></kbd>
+
+<kbd>[XDU][https://www.xidian.edu.cn/]</kbd>
 
 # DFT CODES
