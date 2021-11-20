@@ -1,5 +1,4 @@
 ---
-layout: about
 title: About
 icon: fas fa-archive
 order: 1
