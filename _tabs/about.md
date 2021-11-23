@@ -45,7 +45,7 @@ order: 1
 <table style="width:95%; margin: 20px 20px; padding:6px 6px; border: 0px solid #000000; height: 80px">
     <tr>
         <td>
-            Sep. 2020 &mdash; present,
+            Sep. 2020 &mdash; Present,
         </td>
         <td>Postgraduate in Material Science and Engineering,</td>
         <td>Xidian University</td>
