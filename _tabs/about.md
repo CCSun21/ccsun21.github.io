@@ -24,13 +24,8 @@ order: 1
 			<br />
 			<i class="fas fa-envelope"></i> &nbsp; <a href="mailto:suncongcong@stu.xidian.edu.cn">suncongcong@stu.xidian.edu.cn</a>
 			<br />
-			<a target="_blank" href="https://www.amap.com/place/B0FFFDCWTY"><i class="fas fa-map-marker-alt"></i></a> &nbsp; Room 101, buliding G.
+			<a target="_blank" href="https://www.amap.com/place/B0FFFDCWTY"><i class="fas fa-map-marker-alt"></i></a> &nbsp; Room 101, Buliding G.
         </td>
-        <td style="text-align:right">
-            <button type='button' class='btn btn-outline-light btn-sm' data-toggle="modal" data-target="#zqj_large_pic">
-                <img style="border:2px solid #000000;" src="..\assets\img\favicons\favicon-32x32.png" width="32" height="32px" />
-            </button>
-		</td>
     </tr>
 </table>
 <br />
