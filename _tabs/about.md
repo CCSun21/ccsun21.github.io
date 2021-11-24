@@ -32,8 +32,12 @@ order: 1
 
 ## Mentor
 
-Zhenhuan Zhao
-website: http://web.xidian.edu.cn/zhzhao/
+<div>
+    <p style='text-align: justify'>
+    Zhenhuan Zhao
+    website: http://web.xidian.edu.cn/zhzhao/
+    </p>
+</div>
 
 ## Research Interests
 
