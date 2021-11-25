@@ -23,9 +23,7 @@ title: Congcong Sun                         # the main title
 tagline: Master student of Xidian University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+Blog of Congcong Sun.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ccsun21.github.io/'
