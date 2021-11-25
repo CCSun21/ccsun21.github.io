@@ -25,9 +25,9 @@ order: 1
 			<i class="fas fa-envelope"></i> &nbsp; <a href="mailto:suncongcong@stu.xidian.edu.cn">suncongcong@stu.xidian.edu.cn</a>
 			<br />
 			<a target="_blank" href="https://www.amap.com/place/B0FFFDCWTY"><i class="fas fa-map-marker-alt"></i></a> &nbsp; Room 101, Buliding G.
-            <td style= "text-align:right">
+        </td>
+        <td style= "text-align:right">
                 <img style="border:2px solid #000000;" src="../seests/img/me/me.jpg" width="150" height="200" />
-            </td>
         </td>
     </tr>
 </table>
