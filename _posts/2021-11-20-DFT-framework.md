@@ -17,6 +17,7 @@ This post will focus on the framework of DFT, and maybe some details. Most of th
 Density-functional theory (DFT) is a method for computing the electronic structure of molecules and solids. It is a generalization of quantum chemistry and quantum mechanics.
 
 [Density functional theory - Wikipedia](https://en.wikipedia.org/wiki/Density_functional_theory)
+
 Density-functional theory (DFT) is a computational quantum mechanical modelling method used in physics, chemistry and materials science to investigate the electronic structure (or nuclear structure) (principally the ground state) of many-body systems, in particular atoms, molecules, and the condensed phase.
 
 Content:
@@ -39,3 +40,4 @@ Content:
 - References
 - Sources
 - External links
+
