@@ -12,6 +12,11 @@ order: 4
             XDU
         </span>
     </a>
+    <a class='btn btn-secondary btn-sm mr-1 mt-1' role='button' href="https://pecsensors.com/" target="_blank">
+        <span style="color:#FFFFFF; font-size: 100%">
+            Group
+    </span>
+    </a>
 </div>
 
 <h2 style="font-size: 1.17em">DFT CODES</h2>
