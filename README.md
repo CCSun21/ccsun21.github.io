@@ -1,4 +1,4 @@
 # ccsun21.github.io
 
 Blog of mine:
-Website: [ccsun21.github.io](ccsun21.github.io)
+Website: [https://ccsun21.github.io/](https://ccsun21.github.io/)
