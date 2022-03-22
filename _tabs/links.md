@@ -73,5 +73,10 @@ order: 4
             Periodic Table
         </span>
     </a>
+    <a  class='btn btn-info btn-sm mr-1 mt-1' role='button' href="https://materialsproject.github.io/atomate2/" target="_blank">
+        <span style="color:#FFFFFF; font-size: 100%">
+            atomate2
+        </span>
+    </a>
 </div>
 
