@@ -39,7 +39,7 @@ order: 1
     <p style='text-align: justify'>
     Prof. Zhenhuan Zhao
     <br />
-    Website: http://web.xidian.edu.cn/zhzhao/
+    Website: <a target="_blank" href="http://web.xidian.edu.cn/zhzhao/">http://web.xidian.edu.cn/zhzhao/</a>
     </p>
 </div>
 
