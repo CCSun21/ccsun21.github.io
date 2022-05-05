@@ -14,9 +14,9 @@ order: 1
                 </span>
             </h3>
             <div style="height: 6pt"></div>
-			Post Graduate
+			Master student 
 			<br />
-			School of Advanced matreials and nanotechnology
+			School of Advanced Materials and Nanotechnology
 			<br />
 			Xidian University
 			<br />
@@ -39,7 +39,7 @@ order: 1
     <p style='text-align: justify'>
     Prof. Zhenhuan Zhao
     <br />
-    Website: <a target="_blank" href="http://web.xidian.edu.cn/zhzhao/">http://web.xidian.edu.cn/zhzhao/</a>
+    Website: <a target="_blank" href="https://pecsensors.com/">https://pecsensors.com/</a>
     </p>
 </div>
 
@@ -60,7 +60,7 @@ order: 1
         <td>
             Sep. 2020 &mdash; Present,
         </td>
-        <td>Postgraduate in Material Science and Engineering,</td>
+        <td>Master in Material Science and Engineering,</td>
         <td>Xidian University</td>
     </tr>
     <tr>
