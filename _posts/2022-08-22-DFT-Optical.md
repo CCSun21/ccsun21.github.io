@@ -2,7 +2,7 @@
 layout: post
 title:  "The DFT Process of calculating the optical properties of a material"
 date:   2022-08-22 14:50:23 +0800
-categories: [DFT]
+categories: [DFT,VASP]
 ---
 
 # 1-CellOPt
