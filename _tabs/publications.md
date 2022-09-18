@@ -4,7 +4,7 @@ author: Congcong Sun
 icon: fas fa-newspaper
 order: 2
 ---
-
+# 2022
 1. **Facile synthesis of Carbon nanobelts decorated with Cu and Pd for nitrate electroreduction to ammonia.**
 
     Zhe Wang, **Congcong Sun**, Xiaoxia Bai*, Zhenni Wang, Xin Yu, Xin Tong, Zheng Wang, Hui Zhang, Haili Pang, Lijun Zhou, Weiwei Wu, Yanping Liang, Ajit Khosla*, Zhenhuan Zhao*. 
@@ -22,7 +22,8 @@ order: 2
 
     DOI: [10.1021/acsmaterialslett.2c00149](https://doi.org/10.1021/acsmaterialslett.2c00149)
 
-3. **Directed charge transfer in all solid state heterojunction of Fe doped MoS2 and C-TiO2 nanosheet for enhanced nitrogen photofixation.**
+# 2021
+1. **Directed charge transfer in all solid state heterojunction of Fe doped MoS2 and C-TiO2 nanosheet for enhanced nitrogen photofixation.**
    
     Qian Song, **Congcong Sun**, Zheng Wang*, Xiaoxia Bai*, Keming Wu, Qiang Li, Hui Zhang, Lijun Zhou, Haili Pang, Yanping Liang, Shuai Yue and Zhenhuan Zhao*.
 
