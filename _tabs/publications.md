@@ -6,9 +6,10 @@ order: 2
 ---
 
 1. Facile synthesis of Carbon nanobelts decorated with Cu and Pd for nitrate electroreduction to ammonia.
-    ACS Applied Materials & Interfaces 2022, 14, 30969-30978. 
 
-    Zhe Wang, Congcong Sun, Xiaoxia Bai*, Zhenni Wang, Xin Yu, Xin Tong, Zheng Wang, Hui Zhang, Haili Pang, Lijun Zhou, Weiwei Wu, Yanping Liang, Ajit Khosla*, Zhenhuan Zhao*, 
+    Zhe Wang, **Congcong Sun**, Xiaoxia Bai*, Zhenni Wang, Xin Yu, Xin Tong, Zheng Wang, Hui Zhang, Haili Pang, Lijun Zhou, Weiwei Wu, Yanping Liang, Ajit Khosla*, Zhenhuan Zhao*. 
+    
+    ACS Applied Materials & Interfaces 2022, 14, 30969-30978. 
 
     DOI: [10.1021/acsami.2c09357](https://doi.org/10.1021/acsami.2c09357)
     
@@ -23,7 +24,7 @@ order: 2
 
 3. Directed charge transfer in all solid state heterojunction of Fe doped MoS2 and C-TiO2 nanosheet for enhanced nitrogen photofixation
    
-    Qian Song, **Congcong Sun**, Zheng Wang*, Xiaoxia Bai*, Keming Wu, Qiang Li, Hui Zhang, Lijun Zhou, Haili Pang, Yanping Liang, Shuai Yue and Zhenhuan Zhao*
+    Qian Song, **Congcong Sun**, Zheng Wang*, Xiaoxia Bai*, Keming Wu, Qiang Li, Hui Zhang, Lijun Zhou, Haili Pang, Yanping Liang, Shuai Yue and Zhenhuan Zhao*.
 
     Materials Today Physics 2021, 21, 100563.
 
