@@ -53,6 +53,18 @@ order: 1
     </p>
 </div>
 
+
+## Research Topic
+
+<div>
+    <p style='text-align: justify'>
+        Multi-scale simulation of plasmonic
+        semiconductor based on Density Functional
+        Theory and Finite Difference Time Domain
+    </p>
+</div>
+
+
 ## Education
 
 <table style="width:95%; margin: 20px 20px; padding:6px 6px; border: 0px solid #000000; height: 80px">
