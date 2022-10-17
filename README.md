@@ -1,5 +1,5 @@
 # ccsun21.github.io
 
-My blog:
+The repository of my personal blog:
 
 Website: [https://ccsun21.github.io/](https://ccsun21.github.io/)

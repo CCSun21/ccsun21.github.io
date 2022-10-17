@@ -48,7 +48,7 @@ order: 1
 <div>
     <p style='text-align: justify'>
         My research focuses on first-principles calculations on electronic
-        structure and excited carrier dynamics in different  systems.
+        structure and excited carrier dynamics in different systems.
         Our goal is to understand the mechanism of light-matter interaction.
     </p>
 </div>
@@ -60,7 +60,7 @@ order: 1
     <p style='text-align: justify'>
         Multi-scale simulation of plasmonic
         semiconductor based on Density Functional
-        Theory and Finite Difference Time Domain
+        Theory (DFT) and Finite Difference Time Domain (FDTD)
     </p>
 </div>
 
