@@ -64,13 +64,25 @@ order: 1
     </p>
 </div>
 
+## Employment
+
+<table style="width:95%; margin: 20px 20px; padding:6px 6px; border:
+0px solid #000000; height: 80px">
+    <tr>
+        <td>
+            July. 2023 &mdash; Present,
+        </td>
+        <td>Material Simualtion Engineer,</td>
+        <td>Hithium Energy Storage Technology co.,Ltd </td>
+    </tr>
+</table>
 
 ## Education
 
 <table style="width:95%; margin: 20px 20px; padding:6px 6px; border: 0px solid #000000; height: 80px">
     <tr>
         <td>
-            Sep. 2020 &mdash; Present,
+            Sep. 2020 &mdash; Jul. 2023,
         </td>
         <td>Master in Material Science and Engineering,</td>
         <td>Xidian University</td>
@@ -83,4 +95,3 @@ order: 1
         <td>Xidian University</td>
     </tr>
 </table>
-

@@ -4,18 +4,13 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-<h2 style="font-size: 1.17em">Xidian University</h2>
+<h2 style="font-size: 1.17em">Websites</h2>
 
 <div class='container'>
     <a class='btn btn-secondary btn-sm mr-1 mt-1' role='button' href="https://www.xidian.edu.cn/" target="_blank">
         <span style="color:#FFFFFF; font-size: 100%">
             XDU
         </span>
-    </a>
-    <a class='btn btn-secondary btn-sm mr-1 mt-1' role='button' href="https://pecsensors.com/" target="_blank">
-        <span style="color:#FFFFFF; font-size: 100%">
-            Group
-    </span>
     </a>
 </div>
 
@@ -79,4 +74,3 @@ order: 5
         </span>
     </a>
 </div>
-
