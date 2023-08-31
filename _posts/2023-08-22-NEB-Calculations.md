@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NEB Calculations in vasp
+title: "NEB Calculations in vasp"
 date:   2023-08-31 19:10:58 +0800
 categories: [DFT]
 ---
