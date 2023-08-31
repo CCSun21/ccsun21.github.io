@@ -1,7 +1,8 @@
 ---
+layout: post
 title: NEB Calculations in vasp
-date created: 2023-08-22, 09:30:08
-date modified: 2023-08-28, 12:03:30
+date:   2023-08-31 19:10:58 +0800
+categories: [DFT]
 ---
 
 ## Steps
