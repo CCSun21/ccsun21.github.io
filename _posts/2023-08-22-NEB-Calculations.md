@@ -101,6 +101,6 @@ use `nebresults.pl` to get the result
 
 ## Reference
 
-[vasp做过渡态经验<一>](http://bbs.keinsci.com/thread-7489-1-1.html)
+[vasp做过渡态经验&lt;一&gt;](http://bbs.keinsci.com/thread-7489-1-1.html)
 
 [vasp-vtst计算过渡态(NEB方法)具体过程 - 知乎](https://zhuanlan.zhihu.com/p/375723525)
