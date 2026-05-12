@@ -22,7 +22,7 @@ order: 1
 			<br />
 			Xi'an, Shaanxi, China
 			<br />
-			<i class="fas fa-envelope"></i> &nbsp; <a href="mailto:suncongcong@stu.xidian.edu.cn">suncongcong@stu.xidian.edu.cn</a>
+			<i class="fas fa-envelope"></i> &nbsp; <a href="mailto:suncongcong000@foxmail.com">suncongcong000@foxmail.com</a>
 			<br />
 			<a target="_blank" href="https://www.amap.com/place/B0FFFDCWTY"><i class="fas fa-map-marker-alt"></i></a> &nbsp; Room 101, Buliding G.
         </td>
@@ -38,8 +38,6 @@ order: 1
 <div>
     <p style='text-align: justify'>
     Prof. Zhenhuan Zhao
-    <br />
-    Website: <a target="_blank" href="https://pecsensors.com/">https://pecsensors.com/</a>
     </p>
 </div>
 
