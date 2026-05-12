@@ -8,7 +8,7 @@ An up-to-date list is available on [Google Scholar](https://scholar.google.com/c
 
 # 2025
 
-1. **An Imidazole-Based Electrolyte Additive for Enhancing the Cyclability of Graphite||LiFePO4 Batteries.**
+1. **An Imidazole-Based Electrolyte Additive for Enhancing the Cyclability of Graphite\|\|LiFePO4 Batteries.**
 
     Zuyu Wu, Jianing Duan, **Congcong Sun**, Jianming Zheng*, Dan Sun, Maochun Hong*.
 
