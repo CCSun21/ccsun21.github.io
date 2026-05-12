@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: Congcong Sun                         # the main title
 
-tagline: Master student of Xidian University   # it will display as the sub-title
+tagline: Material Simulation Engineer of Hithium   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blog of Congcong Sun.
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Congcong Sun
-  email: suncongcong000@gmail.com             # change to your email address
+  email: suncongcong000@foxmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
@@ -53,7 +53,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: 'G-MSEPB4QQ60'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
